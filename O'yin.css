@@ -1,0 +1,65 @@
+
+#hx,#ho{ width: 150px;
+    height: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;}
+    #ho{text-align: right;}
+
+td {
+    width: 100px;
+    height: 100px;
+ 
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+ 
+  background-color:white;
+}
+#jadval{ 
+    margin: auto;
+  
+ 
+    background-color:cyan;
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;box-shadow:  0px 0px 39px 10px rgba(37, 32, 32, 0.5);
+
+}
+#hisob{border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+    margin: auto;
+    background-color:rgba(182, 25, 143, 0.692);
+    box-shadow:  0px 15px 20px 0px rgba(114, 40, 108, 0.5);
+
+}
+#nom{text-align: center;
+margin:auto;
+color:aqua;
+text-shadow: 5px 2px 3px  rgba(114, 40, 108, 0.5);
+
+
+font-size: 100px;}
+
+#ho{font-size:22px;
+background-color:  white;
+color:dodgerblue;
+font-family: fantasy;
+}
+#hx{font-size: 22px;
+    background-color:  white;
+    color: lawngreen;
+    font-family: fantasy;}
+    #xo{color: red;
+        text-align: center; text-decoration: overline;
+        font-size: 30px;
+    }
+  
